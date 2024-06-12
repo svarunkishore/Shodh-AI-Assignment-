@@ -1,0 +1,7 @@
+This project demonstrates how a simple neural network can be trained to mimic basic logic gates (AND, OR, XOR) using PyTorch. The model is a single-layer perceptron with a sigmoid activation function. It is trained using binary cross-entropy loss and stochastic gradient descent. The project includes an interactive Gradio interface that allows users to input binary values (0 or 1) and see real-time predictions from the trained models. Additionally, the interface provides a visualization of the decision boundary, illustrating how the neural network classifies the input space. This tool offers an educational insight into how neural networks can learn and represent simple logic functions.
+
+
+
+
+
+
